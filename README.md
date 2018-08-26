@@ -1,3 +1,3 @@
 # shear-beauty
 my business
-A beautifull Salom
+A beautifull Salon
